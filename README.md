@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=chris901003)](https://github.com/mango-lzp/github-readme-stats)
+## I'm Huang Hong Yen
 
-<!--
-**chris901003/chris901003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Services in supply [Travel Map](https://apps.apple.com/us/app/%E6%97%85%E9%81%8A%E5%9C%B0%E5%9C%96/id6446057774)
+- 🔭 Services in supply [Taiwan Weather Widget](https://apps.apple.com/us/app/%E5%A4%A9%E6%B0%A3%E9%9A%A8%E4%BD%A0%E5%A1%AB/id6446807145)
+- 👨‍💻 I’m currently working on **Sticky Note**
+- 🌱 I’m currently learning **SwiftUI**
 
-Here are some ideas to get you started:
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
