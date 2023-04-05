@@ -1,4 +1,6 @@
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=chris901003)](https://github.com/mango-lzp/github-readme-stats)
+<!-- [![Mango's github stats](https://github-readme-stats.vercel.app/api?username=chris901003)](https://github.com/mango-lzp/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris901003&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris901003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## I'm Huang Hong Yen
 
 - 🔭 Services in supply [Travel Map](https://apps.apple.com/us/app/%E6%97%85%E9%81%8A%E5%9C%B0%E5%9C%96/id6446057774)
